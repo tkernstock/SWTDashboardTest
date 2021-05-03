@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib_broken/com.ibm.icu_64.2.0.v20190507-1337.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.collections_10.4.0.v20200820-2049.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.core.commands_3.9.700.v20191217-1850.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.core.runtime_3.19.0.v20200724-1004.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.equinox.common_3.14.100.v20210212-1143.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.equinox.registry_3.10.100.v20210212-1143.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.jface_3.21.0.v20200821-1458.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.jface.text_3.16.400.v20200807-0831.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.osgi_3.16.0.v20200828-0759.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.swt.win32.win32.x86_64_3.115.0.v20200831-1002.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.text_3.10.300.v20200807-0831.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.ui.forms_3.10.0.v20200727-0948.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.ui.workbench_3.120.0.v20200829-1411.jar"/>
+	<classpathentry kind="lib" path="lib_broken/org.eclipse.ui.workbench.texteditor_3.15.0.v20200812-2334.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
